@@ -26,6 +26,7 @@
           margin-right: auto;
         "
       />
+      <p><br /></p>
       <div
         class="status-card-container"
         style="
@@ -36,20 +37,23 @@
           flex-direction: column;
           justify-content: space-evenly;
         "
+        align="center"
       >
         <img
           id="git-stat"
           class="status-card"
           src="https://github-readme-stats.vercel.app/api?username=tarzanchemgio&count_private=true&show_icons=true&theme=dracula&border_radius=8&include_all_commits=true&custom_title=Kafka Wanna Fly"
           alt="Profile stats"
-          style="flex: 1"
+          style="height: 150px"
+          height="200"
         />
         <img
           id="git-language"
           class="status-card"
           src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarzanchemgio&layout=compact&theme=dracula"
           alt="Top language"
-          style="flex: 1; margin-top: 20px"
+          style="height: 150px; margin-top: 20px"
+          height="200"
         />
       </div>
     </div>
