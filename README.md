@@ -34,7 +34,6 @@
           src="https://github-readme-stats.vercel.app/api?username=tarzanchemgio&count_private=true&show_icons=true&theme=dracula&border_radius=8&include_all_commits=true&custom_title=Kafka Wanna Fly"
           alt="Profile stats"
              height="150"
-             width="45%"
         />
         <img
           id="git-language"
@@ -42,7 +41,6 @@
           src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarzanchemgio&layout=compact&theme=dracula"
           alt="Top language"
              height="150"
-             width="45%"
         />
       </p>
     </div>
