@@ -20,7 +20,7 @@
           margin-right: auto;
         "
       />
-      <div
+      <p
         class="status-card-container"
         align="center"
       >
@@ -37,7 +37,7 @@
           alt="Top language"
           height="200"
         />
-      </div>
+      </p>
     </div>
   </body>
 </html>
