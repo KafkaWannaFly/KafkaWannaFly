@@ -30,10 +30,10 @@
         class="status-card-container"
         style="
           margin-top: 20px;
-          padding-left: 20px;
-          padding-right: 20px;
+          padding-left: 10vw;
+          padding-right: 10vw;
           display: flex;
-          flex-direction: row;
+          flex-direction: column;
           justify-content: space-evenly;
         "
       >
@@ -42,14 +42,14 @@
           class="status-card"
           src="https://github-readme-stats.vercel.app/api?username=tarzanchemgio&count_private=true&show_icons=true&theme=dracula&border_radius=8&include_all_commits=true&custom_title=Kafka Wanna Fly"
           alt="Profile stats"
-          style="height: 15vw"
+          style="flex: 1"
         />
         <img
           id="git-language"
           class="status-card"
           src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarzanchemgio&layout=compact&theme=dracula"
           alt="Top language"
-          style="height: 15vw"
+          style="flex: 1; margin-top: 20px"
         />
       </div>
     </div>
