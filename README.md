@@ -30,7 +30,6 @@
              width="90%"
         />
       </p>
-      <p><br><p/>
       <p align="center">
          <img
           id="git-language"
