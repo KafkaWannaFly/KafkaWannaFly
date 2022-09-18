@@ -25,7 +25,7 @@
         <img
           id="git-stat"
           class="status-card"
-          src="https://github-readme-stats.vercel.app/api?username=KafkaWannaFly&count_private=true&show_icons=true&theme=dracula&border_radius=8&include_all_commits=true&custom_title=Kafka Wanna Fly"
+          src="https://github-readme-stats.vercel.app/api?username=KafkaWannaFly&count_private=true&show_icons=true&theme=onedark&border_radius=8&include_all_commits=true&custom_title=Kafka%20Wanna%20Fly"
           alt="Profile stats"
              width="90%"
         />
