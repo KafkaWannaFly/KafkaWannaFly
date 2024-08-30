@@ -1,44 +1,52 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <!-- <link rel="stylesheet" href="assests/css/style.css" /> -->
-  </head>
-  <body>
-    <div
-      class="container"
-    >
-      <img
-        src="assests/img/kaguya.webp"
-        alt="Name explain"
-        id="profile-img"
-        style="
-          width: 100%;
-          display: block;
-          margin-left: auto;
-          margin-right: auto;
-        "
+<img
+   src="assests/img/kaguya.webp"
+   alt="Name explain"
+   id="profile-img"
+   style="
+   width: 100%;
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   "
+   />
+```
+                           ,--,      ,--,                    ,----,                                    
+                        ,---.'|   ,---.'|                  ,/   .`|                               ,--. 
+    ,---,.              |   | :   |   | :   .--.--.      ,`   .'  : ,---,         ,----..     ,--/  /| 
+  ,'  .' |         ,--, :   : |   :   : |  /  /    '.  ;    ;     /'  .' \       /   /   \ ,---,': / ' 
+,---.'   |       ,'_ /| |   ' :   |   ' : |  :  /`. /.'___,/    ,'/  ;    '.    |   :     ::   : '/ /  
+|   |   .'  .--. |  | : ;   ; '   ;   ; ' ;  |  |--` |    :     |:  :       \   .   |  ;. /|   '   ,   
+:   :  :  ,'_ /| :  . | '   | |__ '   | |_|  :  ;_   ;    |.';  ;:  |   /\   \  .   ; /--` '   |  /    
+:   |  |-,|  ' | |  . . |   | :.'||   | :.'\  \    `.`----'  |  ||  :  ' ;.   : ;   | ;    |   ;  ;    
+|   :  ;/||  | ' |  | | '   :    ;'   :    ;`----.   \   '   :  ;|  |  ;/  \   \|   : |    :   '   \   
+|   |   .':  | | :  ' ; |   |  ./ |   |  ./ __ \  \  |   |   |  ''  :  | \  \ ,'.   | '___ |   |    '  
+'   :  '  |  ; ' |  | ' ;   : ;   ;   : ;  /  /`--'  /   '   :  ||  |  '  '--'  '   ; : .'|'   : |.  \ 
+|   |  |  :  | : ;  ; | |   ,/    |   ,/  '--'.     /    ;   |.' |  :  :        '   | '/  :|   | '_\.' 
+|   :  \  '  :  `--'   \'---'     '---'     `--'---'     '---'   |  | ,'        |   :    / '   : |     
+|   | ,'  :  ,      .-./                        ,--,             `--''           \   \ .'  ;   |,'     
+`----'     `--`----'                         ,---.'|       ,----..   ,-.----.     `---`    '---'       
+    ,---,        ,---,.                ,---,.|   | :      /   /   \  \    /  \      ,---,.,-.----.     
+  .'  .' `\    ,'  .' |       ,---.  ,'  .' |:   : |     /   .     : |   :    \   ,'  .' |\    /  \    
+,---.'     \ ,---.'   |      /__./|,---.'   ||   ' :    .   /   ;.  \|   |  .\ :,---.'   |;   :    \   
+|   |  .`\  ||   |   .' ,---.;  ; ||   |   .';   ; '   .   ;   /  ` ;.   :  |: ||   |   .'|   | .\ :   
+:   : |  '  |:   :  |-,/___/ \  | |:   :  |-,'   | |__ ;   |  ; \ ; ||   |   \ ::   :  |-,.   : |: |   
+|   ' '  ;  ::   |  ;/|\   ;  \ ' |:   |  ;/||   | :.'||   :  | ; | '|   : .   /:   |  ;/||   |  \ :   
+'   | ;  .  ||   :   .' \   \  \: ||   :   .''   :    ;.   |  ' ' ' :;   | |`-' |   :   .'|   : .  /   
+|   | :  |  '|   |  |-,  ;   \  ' .|   |  |-,|   |  ./ '   ;  \; /  ||   | ;    |   |  |-,;   | |  \   
+'   : | /  ; '   :  ;/|   \   \   ''   :  ;/|;   : ;    \   \  ',  / :   ' |    '   :  ;/||   | ;\  \  
+|   | '` ,/  |   |    \    \   `  ;|   |    \|   ,/      ;   :    /  :   : :    |   |    \:   ' | \.'  
+;   :  .'    |   :   .'     :   \ ||   :   .''---'        \   \ .'   |   | :    |   :   .':   : :-'    
+|   ,.'      |   | ,'        '---" |   | ,'                `---`     `---'.|    |   | ,'  |   |.'      
+'---'        `----'                `----'                              `---`    `----'    `---'        
+                                                                                                                                                                                  
+```
+<p align="center">
+   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=KafkaWannaFly&theme=synthwave&hide_border=true&card_width=1000&card_height=450" alt="GitHub Streak" /></a>
+</p>
+<p align="center">
+   <img
+      id="git-language"
+      class="status-card"
+      src="https://github-readme-activity-graph.vercel.app/graph?username=KafkaWannaFly&border_radius=0&custom_title=activity%20graph&hide_title=true&bg_color=2E3440&color=81A1C1&line=88C0D0&point=5E81AC&area_color=D8DEE9&title_color=81A1C1&area=true"
       />
-      <p><br><p/>
-      <p align="center">
-        <img
-          id="git-stat"
-          class="status-card"
-          src="https://github-readme-stats.vercel.app/api?username=KafkaWannaFly&count_private=true&show_icons=true&theme=onedark&border_radius=8&include_all_commits=true&custom_title=Kafka%20Wanna%20Fly"
-          alt="Profile stats"
-             width="90%"
-        />
-      </p>
-      <p align="center">
-         <img
-          id="git-language"
-          class="status-card"
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=KafkaWannaFly&layout=compact&theme=dracula"
-          alt="Top language"
-             width="90%"
-        />
-      </p>
-    </div>
-  </body>
-</html>
+</p>                                                                                                                  
